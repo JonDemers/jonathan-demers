@@ -8,4 +8,4 @@ set -e
 
 grip Jonathan-Demers-Resume.md --title=" " --export Jonathan-Demers-Resume.html
 
-wkhtmltopdf Jonathan-Demers-Resume.html Jonathan-Demers-Resume.pdf
+wkhtmltopdf --page-size letter Jonathan-Demers-Resume.html Jonathan-Demers-Resume.pdf
