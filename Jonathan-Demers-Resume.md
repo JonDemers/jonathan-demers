@@ -5,8 +5,8 @@ Montreal, QC, H4J 1K5, Canada
 [linkedin.com/in/jonathan-demers-ing](https://www.linkedin.com/in/jonathan-demers-ing)  
 Latest version: 
 [MD](https://github.com/JonDemers/jonathan-demers/blob/master/Jonathan-Demers-Resume.md),
-[HTML](https://github.com/JonDemers/jonathan-demers/blob/master/Jonathan-Demers-Resume.html),
-[PDF](https://github.com/JonDemers/jonathan-demers/blob/master/Jonathan-Demers-Resume.pdf)
+[HTML](https://jondemers.github.io/jonathan-demers/Jonathan-Demers-Resume.html),
+[PDF](https://jondemers.github.io/jonathan-demers/Jonathan-Demers-Resume.pdf)
 
 # <div align="center">SOFTWARE ENGINEERING LEADER</div>
 
