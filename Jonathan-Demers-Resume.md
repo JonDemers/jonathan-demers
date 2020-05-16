@@ -159,15 +159,15 @@ Technologies: MatLab, LabView, RF Lab equipment (spectrum analyzers, network ana
 
 ## **deeplearning.ai** - Artificial Intelligence - TensorFlow in Practice
 
-- *Issued 2020* - 4 courses, 16 weeks. [Certificate of completion](https://www.coursera.org/account/accomplishments/specialization/certificate/JTD5XFYKW3LT)
+- *Issued 2020* - 4 courses, 16 weeks. [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/JTD5XFYKW3LT)
 
 ## **deeplearning.ai** - Artificial Intelligence - Deep Learning
 
-- *Issued 2019* - 5 courses, 16 weeks. [Certificate of completion](https://www.coursera.org/account/accomplishments/specialization/certificate/XTJ9RM2UHB2A)
+- *Issued 2019* - 5 courses, 16 weeks. [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/XTJ9RM2UHB2A)
 
 ## **MuleSoft** - MuleSoft Certified Developer - Integration and API Associate
 
-- *Issued 2017 (2 years validity)*. [Certificate of completion](https://training.mulesoft.com/award/certification/58de6729-1fed-34ef-a81c-7971b5113814)
+- *Issued 2017 (2 years validity)*. [Certificate](https://training.mulesoft.com/award/certification/58de6729-1fed-34ef-a81c-7971b5113814)
 
 # <div align="center">EDUCATION</div>
 
