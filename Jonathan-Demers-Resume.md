@@ -14,7 +14,7 @@ Highly technical and result driven leader with 18 years experience in Technology
 
 | Leadership | Technical|
 |:-------------:|:-------------:|
-| ✓&nbsp;Organizational&nbsp;Leadership ✓&nbsp;Strategic&nbsp;Planning ✓&nbsp;Team&nbsp;Coordination ✓&nbsp;Talent&nbsp;Management ✓&nbsp;Coaching ✓&nbsp;Vision&nbsp;Alignment ✓&nbsp;Goal&nbsp;Setting ✓&nbsp;Team&nbsp;Leadership ✓&nbsp;Communication ✓&nbsp;Management | ✓&nbsp;Software&nbsp;Development&nbsp;Life&nbsp;Cycle&nbsp;(SDLC) ✓&nbsp;Agile&nbsp;Methodologies ✓&nbsp;Architecture ✓&nbsp;Distributed&nbsp;Systems ✓&nbsp;Design&nbsp;Patterns ✓&nbsp;REST ✓&nbsp;SOA ✓&nbsp;Web&nbsp;Services ✓&nbsp;System&nbsp;Integration ✓&nbsp;Development |
+| ✓&nbsp;Organizational&nbsp;Leadership ✓&nbsp;Strategic&nbsp;Planning ✓&nbsp;Team&nbsp;Coordination ✓&nbsp;Talent&nbsp;Management ✓&nbsp;Coaching ✓&nbsp;Vision&nbsp;Alignment ✓&nbsp;Goal&nbsp;Setting ✓&nbsp;Team&nbsp;Leadership ✓&nbsp;Communication ✓&nbsp;Management | ✓&nbsp;Software&nbsp;Development&nbsp;Life&nbsp;Cycle&nbsp;(SDLC) ✓&nbsp;Agile&nbsp;Methodologies ✓&nbsp;Architecture ✓&nbsp;Distributed&nbsp;Systems ✓&nbsp;Design&nbsp;Patterns ✓&nbsp;REST ✓&nbsp;SOA ✓&nbsp;DevOps ✓&nbsp;System&nbsp;Integration ✓&nbsp;Development |
 
 # <div align="center">PROFESSIONAL EXPERIENCE</div>
 
