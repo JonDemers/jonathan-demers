@@ -10,24 +10,11 @@ Latest version:
 
 # <div align="center">SOFTWARE ENGINEERING LEADER</div>
 
-Highly technical and result driven leader with 18 years experience in Technology, including 12 years as consultant for diverse enterprises. Fast learner and strategic decision maker, with natural ability to evolve in fast paced environments. Played critical roles on high-visibility projects in various organizational structures and company sizes. Thorough understanding of both organizational and technical stakes of software development life cycle (SDLC) and the relationship between them.
+Highly technical and result driven leader with 18 years experience in Technology, including 12 years as consultant for diverse enterprises. Fast learner and strategic decision maker, with natural ability to perform in fast paced environments. Played critical roles on high-visibility projects in various organizational structures and company sizes. Thorough understanding of both organizational and technical stakes of software development life cycle (SDLC) and the relationship between them.
 
-<div align="center">
-✓ Organizational Leadership
-✓ Software Development Life Cycle (SDLC)
-✓ Management
-✓ Agile Methodologies
-✓ Team Coordination
-✓ Distributed Systems
-✓ Design Patterns
-✓ SOA
-✓ REST
-✓ Web Services
-✓ Project Management
-✓ System Integration
-✓ Talent Management
-✓ Strategic Planning
-</div>
+| Leadership | Technical|
+|:-------------:|:-------------:|
+| ✓&nbsp;Organizational&nbsp;Leadership ✓&nbsp;Strategic&nbsp;Planning ✓&nbsp;Team&nbsp;Coordination ✓&nbsp;Talent&nbsp;Management ✓&nbsp;Coaching ✓&nbsp;Vision&nbsp;Alignment ✓&nbsp;Goal&nbsp;Setting ✓&nbsp;Team&nbsp;Leadership ✓&nbsp;Communication ✓&nbsp;Management | ✓&nbsp;Software&nbsp;Development&nbsp;Life&nbsp;Cycle&nbsp;(SDLC) ✓&nbsp;Agile&nbsp;Methodologies ✓&nbsp;Architecture ✓&nbsp;Distributed&nbsp;Systems ✓&nbsp;Design&nbsp;Patterns ✓&nbsp;REST ✓&nbsp;SOA ✓&nbsp;Web&nbsp;Services ✓&nbsp;System&nbsp;Integration ✓&nbsp;Development |
 
 # <div align="center">PROFESSIONAL EXPERIENCE</div>
 
@@ -35,12 +22,10 @@ Highly technical and result driven leader with 18 years experience in Technology
 
 *Jun 2018 - Present*
 
-Extra-Large enterprise (85000+ employees) where with thourough and ever-evolving processes.
-
 - Lead teams of developers and devops on numerous successful enterprise projects.
 - Advise the department leader on organizational matters.
-- Contribute to infrastructure and architecture vision and designs.
-- Contribute to project and delivery planning.
+- Contribute to new A/B infrastructure and architecture vision and designs.
+- Advise on project and delivery planning.
 - Facilitate communication between business stakeholders and technical teams.
 
 Projects: GPS 2.1, GPS 2.2 and much more. Multiple system integrations. Buy online. Customer facing applications: [MyInsurance](https://myinsurance.td.com), [DigitalQuoter](https://www.tdinsurance.com/quote/car).
@@ -169,18 +154,16 @@ Develop testbed to measure the performance of spatial RF communication modules.
 
 Technologies: MatLab, LabView, RF Lab equipment (spectrum analyzers, network analyzers, arbitrary signal generators, etc).
 
-# <div align="center">SKILLS</div>
-
 # <div align="center">CERTIFICATIONS</div>
 
 
 ## **deeplearning.ai** - Artificial Intelligence - TensorFlow in Practice
 
-- *Issued 2020*. 4 courses (16 weeks). [Certificate of completion](https://www.coursera.org/account/accomplishments/specialization/certificate/JTD5XFYKW3LT)
+- *Issued 2020* - 4 courses, 16 weeks. [Certificate of completion](https://www.coursera.org/account/accomplishments/specialization/certificate/JTD5XFYKW3LT)
 
 ## **deeplearning.ai** - Artificial Intelligence - Deep Learning
 
-- *Issued 2019*. 5 courses (16 weeks). [Certificate of completion](https://www.coursera.org/account/accomplishments/specialization/certificate/XTJ9RM2UHB2A)
+- *Issued 2019* - 5 courses, 16 weeks. [Certificate of completion](https://www.coursera.org/account/accomplishments/specialization/certificate/XTJ9RM2UHB2A)
 
 ## **MuleSoft** - MuleSoft Certified Developer - Integration and API Associate
 
@@ -192,15 +175,9 @@ Technologies: MatLab, LabView, RF Lab equipment (spectrum analyzers, network ana
 
 *2017 - 2018* [Credential ID HRYMS5AB3PTJ](https://www.coursera.org/account/accomplishments/specialization/certificate/FZMS2UT4TUSS)
 
-This 5-Star *"Leading People and Teams Specialization"* from Michigan faculty strengthen essential leadership skills with proven management techniques. It also includes interviews with exceptional leaders Jeff Brodsky, Global Head of HR for Morgan Stanley, and John Beilein, Head Coach of the University of Michigan Men's Basketball Team. The specialization has 5 courses (20 weeks).
+This 5-Star *"Leading People and Teams Specialization"* from Michigan faculty strengthen essential leadership skills with proven management techniques. It also includes interviews with exceptional leaders Jeff Brodsky, Global Head of HR for Morgan Stanley, and John Beilein, Head Coach of the University of Michigan Men's Basketball Team. The specialization has 5 courses over 20 weeks.
 
-*Grade: 99%*
-
-## **Polytechnique Montréal** - Aborted PhD, Engineering - Robotics
-
-*2011 (aborted)*
-
-My admission to PhD programm in engineering was unconditionnaly accepted by Polytechnique Montréal. I had my research director and plans to get NSERC scholarship. Before starting the program and after re-assessing the opportunity cost of PhD, I decided not to pursue this goal.
+*Grade Achieved: 99%*
 
 ## **Polytechnique Montréal** - B.Eng., Engineering - Telecommunications
 
@@ -208,5 +185,6 @@ My admission to PhD programm in engineering was unconditionnaly accepted by Poly
 
 - Mention of excellence from the general director for academic achievement.
 - Scholarship for academic excellence.
+- Achieved [unconditional admission to PhD](https://jondemers.github.io/jonathan-demers/Jonathan-Demers-Polytechnique-PhD-Admission.pdf) directly (skipping Master), I did not pursue this goal.
 
-*GPA: 3.8 (max of 4.0 at Polytechnique)*
+*[GPA: 3.8](https://jondemers.github.io/jonathan-demers/Jonathan-Demers-Polytechnique-Bulletin.pdf) (max of 4.0 at Polytechnique)*
