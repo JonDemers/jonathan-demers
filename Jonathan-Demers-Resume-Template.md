@@ -8,13 +8,13 @@ Latest version:
 [HTML](https://jondemers.github.io/jonathan-demers/Jonathan-Demers-Resume.html),
 [PDF](https://jondemers.github.io/jonathan-demers/Jonathan-Demers-Resume.pdf)
 
-# <div align="center">SOFTWARE ENGINEERING DIRECTOR</div>
+# <div align="center">POSITION_TITLE_UPPERCASE</div>
 
-Please consider my candidacy for the role of **Software Engineering Director**. Throughout 18 years experience in software development, including 12 years as senior consultant for multiple businesses, I acquired rich and diversified experience.
+Please consider my candidacy for the role of **POSITION_TITLE_NORMALCASE**. Throughout 18 years experience in software development, including 12 years as senior consultant for multiple businesses, I acquired rich and diversified experience.
 
 This diversity of practical knowledge gives me a clear vision not only on the best technology to accomplish a given goal, but also on the best team structures and strategies to deliver value for businesses and their customers.  
 
-I am fully bilingual in French and English and I have many sought-after leadership skills, which makes me a great fit for this role. I’d be glad to schedule a time to discuss about this position of **Software Engineering Director**. I am eager to accomplish new challenges as soon as **June 29 2020**.
+I am fully bilingual in French and English and I have many sought-after leadership skills, which makes me a great fit for this role. I’d be glad to schedule a time to discuss about this position of **POSITION_TITLE_NORMALCASE**. I am eager to accomplish new challenges as soon as **June 29 2020**.
 
 Sincerely,  
 Jonathan Demers, Eng.  
