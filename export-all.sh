@@ -8,9 +8,14 @@ set -e
 
 
 for position_title_normalcase in \
+  "Manager, Application Development and Automation" \
+  "Senior Java Tech Lead" \
+  "IT Manager" \
+  "Software Development Manager" \
   "Software Engineering Director" \
 ; do
 
+  echo
   echo Generating resume for position of $position_title_normalcase
 
   filename="output/Jonathan-Demers-$(echo $position_title_normalcase | sed -r 's/[^a-zA-Z0-9 -]//g' | sed -r 's/ /-/g')-Resume"
@@ -25,6 +30,6 @@ for position_title_normalcase in \
 
   for ext in md html pdf; do
     cp $filename.$ext Jonathan-Demers-Resume.$ext
-  done 
+  done
 
 done
