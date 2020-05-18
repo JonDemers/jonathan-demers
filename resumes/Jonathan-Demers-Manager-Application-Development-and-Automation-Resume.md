@@ -4,17 +4,17 @@ Montreal, QC, H4J 1K5, Canada
 <jdemers@opcodesolutions.com>  
 [linkedin.com/in/jonathan-demers-ing](https://www.linkedin.com/in/jonathan-demers-ing)  
 Latest version: 
-[MD](https://github.com/JonDemers/jonathan-demers/blob/master/resumes/Jonathan-Demers-Leader-Consultant-Software-Engineering-Resume.md),
-[HTML](https://jondemers.github.io/jonathan-demers/resumes/Jonathan-Demers-Leader-Consultant-Software-Engineering-Resume.html),
-[PDF](https://jondemers.github.io/jonathan-demers/resumes/Jonathan-Demers-Leader-Consultant-Software-Engineering-Resume.pdf)
+[MD](https://github.com/JonDemers/jonathan-demers/blob/master/resumes/Jonathan-Demers-Manager-Application-Development-and-Automation-Resume.md),
+[HTML](https://jondemers.github.io/jonathan-demers/resumes/Jonathan-Demers-Manager-Application-Development-and-Automation-Resume.html),
+[PDF](https://jondemers.github.io/jonathan-demers/resumes/Jonathan-Demers-Manager-Application-Development-and-Automation-Resume.pdf)
 
-# <div align="center">LEADER & CONSULTANT - SOFTWARE ENGINEERING</div>
+# <div align="center">MANAGER, APPLICATION DEVELOPMENT AND AUTOMATION</div>
 
-Please consider my candidacy for the role of **Leader & Consultant - Software Engineering**. Throughout 18 years experience in software development, including 12 years as senior consultant for multiple businesses, I acquired rich and diversified experience.
+Please consider my candidacy for the role of **Manager, Application Development and Automation**. Throughout 18 years experience in software development, including 12 years as senior consultant for multiple businesses, I acquired rich and diversified experience.
 
 This diversity of practical knowledge gives me a clear vision not only on the best technology to accomplish a given goal, but also on the best team structures and strategies to deliver value for businesses and customers.  
 
-I am fully bilingual in French and English and I have many sought-after leadership skills, which makes me a great fit for this role. I’d be glad to schedule a time to discuss about this position of **Leader & Consultant - Software Engineering**. I am eager to accomplish new challenges as early as **June 29 2020**.
+I am fully bilingual in French and English and I have many sought-after leadership skills, which makes me a great fit for this role. I’d be glad to schedule a time to discuss about this position of **Manager, Application Development and Automation**. I am eager to accomplish new challenges as early as **June 29 2020**.
 
 Jonathan Demers, Eng.  
 
