@@ -8,6 +8,7 @@ set -e
 
 
 for position_title_normalcase in \
+  "Software Development Manager (Cloud)" \
   "Architecte de Solutions" \
   "DevOps Lead" \
   "Manager of Application Development" \
@@ -24,7 +25,7 @@ for position_title_normalcase in \
   echo
   echo Generating resume for position of $position_title_normalcase
 
-  resume_filename="resumes/Jonathan-Demers-$(echo $position_title_normalcase | sed -r 's/[^a-zA-Z0-9]+/-/g')-Resume"
+  resume_filename="resumes/Jonathan-Demers$(echo "-${position_title_normalcase}-" | sed -r 's/[^a-zA-Z0-9]+/-/g')Resume"
 
   cp Jonathan-Demers-Resume-Template.md $resume_filename.md
 
