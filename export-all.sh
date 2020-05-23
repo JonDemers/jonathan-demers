@@ -8,6 +8,7 @@ set -e
 
 
 for position_title_normalcase in \
+  "Lead/Senior Full-Stack Developer" \
   "Director, R\&D" \
   "Director of Software Development" \
   "Lead/Senior Java Developer" \
