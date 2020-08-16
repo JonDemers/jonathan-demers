@@ -156,12 +156,15 @@ This 5-Star *"Leading People and Teams Specialization"* from Michigan faculty st
 
 # <div align="center">REFERENCES</div>
 
+*"[Jonathan Demers] is a strong lead who takes full ownership and able to effectively and efficiently communicate to different levels. Jonathan has strong technical background that helps him provide options to technical and delivery problems. I recommend Jonathan and I hope to have a chance to work with him again."*  
+-- George Gouel, Senior manager, Delivery & partner management at TD
+
+*"[Jonathan Demers] really help us to deliver multiples projects under his excellent technical and strong delivery skills. He also imposed himself as versatile around whole development reality, technical issues, infrastructure design and configuration. I strongly recommend Jonathan [...]"*  
+-- Guillaume Roberge, Senior Manager, Software Development at TD
+
 *"Jonathan is efficient, competent and has an excellent knowledge of architecture, design, development and the Java language. He is a key player and person to have on your major project."*  
 -- Aiman Sawan, Founder at Butor
 
-*"Jonathan is a quick learner that adapted very well to our work environment. I recommend Jonathan on every team that have challenging problems to solve or critical system to deliver"*  
+*"Jonathan is a quick learner that adapted very well to our work environment. I recommend Jonathan on every team that have challenging problems to solve or critical system to deliver."*  
 -- Tony Bussieres, Chief Technology Officer, Big Data specialist & Co-founder at TickSmith
-
-*"Jonathan has practical experience of a wide range of technologies but he is particularly notable for his ability to “get it”. He is quick to understand the principles of existing technology and business practices, and is insightful when designing new systems."*  
--- Joel Phillips, Mathematician & Developer
 
