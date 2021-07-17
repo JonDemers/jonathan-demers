@@ -1,3 +1,3 @@
 # jonathan-demers
 
-Are you looking for [Jonathan Demers Resume](https://github.com/JonDemers/jonathan-demers/blob/master/Jonathan-Demers-Resume.md)?
+Are you looking for [Jonathan Demers Resume](https://jondemers.github.io/jonathan-demers/Jonathan-Demers-Resume.html)?
