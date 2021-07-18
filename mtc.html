@@ -1,0 +1,100 @@
+<html>
+<body>
+	<script>
+		/* 	position
+		 email
+		 phone
+		 address1
+		 address2
+		 city
+		 state
+		 zipcode
+		 country
+		 preferred_locale
+		 */
+		function populateFieldsAndGenerateEmail() {
+			var fullinfo = document.getElementById("fullinfo").value.trim();
+			var idx = fullinfo.lastIndexOf(" ");
+			var firstname = fullinfo.substring(0, idx).trim();
+			var lastname = fullinfo.substring(idx + 1).replaceAll("<", "")
+					.replaceAll(">", "").trim();
+
+			if (firstname.includes(",")) {
+				var idx2 = firstname.lastIndexOf(",");
+				var part1 = firstname.substring(0, idx2).trim();
+				var part2 = firstname.substring(idx2 + 1).trim();
+				if (part2.length === 0) {
+					firstname = lastname;
+					lastname = part1;
+				} else {
+					firstname = part2;
+					lastname = part1 + " " + lastname;
+				}
+			} else if (firstname.includes(" ")) {
+				var idx2 = firstname.indexOf(" ");
+				var part1 = firstname.substring(0, idx2).trim();
+				var part2 = firstname.substring(idx2 + 1).trim();
+				firstname = part1;
+				lastname = part2 + " " + lastname;
+			}
+
+			document.getElementById("firstname").value = firstname;
+			document.getElementById("lastname").value = lastname;
+
+			generateEmail();
+		}
+		function generateEmail() {
+
+			var firstname = document.getElementById("firstname").value.trim();
+			var lastname = document.getElementById("lastname").value.trim();
+
+			const mtcParamObject = {};
+			mtcParamObject.firstname = firstname;
+			mtcParamObject.lastname = lastname;
+			var mtcParam = btoa(JSON.stringify(mtcParamObject));
+
+			var emailOutput = document.getElementById("emailInput").value;
+			emailOutput = emailOutput.replaceAll("${firstname}", firstname)
+			emailOutput = emailOutput.replaceAll("${lastname}", lastname)
+			emailOutput = emailOutput.replaceAll("${mtcParam}", mtcParam)
+
+			var emailOutputElement = document.getElementById("emailOutput")
+			emailOutputElement.innerHTML = emailOutput;
+
+			window.getSelection().selectAllChildren(emailOutputElement);
+			document.execCommand("copy");
+		}
+	</script>
+
+	<input type="text" id="fullinfo" name="fullinfo" placeholder="Full Info" size="60" />
+	<input type="button" value="Populate Fields and Generate Email" onclick="populateFieldsAndGenerateEmail()" />
+	<br>
+
+	<hr>
+
+	<input type="text" id="firstname" name="firstname" placeholder="Firstname" size="15" />
+	<input type="text" id="lastname" name="lastname" placeholder="Lastname" size="45" />
+	<input type="button" value="Generate Email" onclick="generateEmail()" />
+
+	<hr>
+
+	<textarea id="emailInput" name="" emailInput"" cols="120" rows="15">
+Hi ${firstname},
+
+Thanks for reaching out, it is always appreciated.
+
+I am currently full time with a client, the contract is planned to end in <em>October 2021</em>.
+
+I suggest we reconnect 1 month before the end of my contract.
+
+In the meantime, here is a link to <a href="https://jondemers.github.io/jonathan-demers/resumes/Jonathan-Demers-Leader-Consultant-Software-Engineering-Resume.html?mtcParam=${mtcParam}">my resume</a>.
+
+Keep in touch,
+Jonathan Demers, Eng.
+Leader & Consultant - Software Engineering
+
+</textarea>
+	<br>
+	<p id="emailOutput" style="white-space: pre-line; font-family: Arial, Helvetica, sans-serif; font-size: 13px;"></p>
+</body>
+</html>
