@@ -339,5 +339,39 @@ Latest version:
       autorefreshContent(autorefreshUrl);
     }
   </script>
+<script>
+	(function(w,d,t,u,n,a,m){w['MauticTrackingObject']=n;
+		w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)},a=d.createElement(t),
+		m=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://t.goenligne.ca/mtc.js','mt');
+
+function setCookie(name, value, days) {
+    document.cookie = name + "=" + encodeURIComponent(value) + "; max-age=" + (days*24*60*60) + "; path=/";
+}
+function getCookie(name) {
+    var cookieArr = document.cookie.split(";");
+    for(var i = 0; i < cookieArr.length; i++) {
+        var cookiePair = cookieArr[i].split("=");
+        if(name === cookiePair[0].trim()) {
+            return decodeURIComponent(cookiePair[1]);
+        }
+    }
+    return null;
+}
+
+	const mtcParam = {};
+	if (getCookie('mtcParam') === null) {
+		setCookie('mtcParam', 'true', 10*365);
+		try {
+			const mtcParamRequest = new URLSearchParams(window.location.search).get('mtcParam');
+			if (mtcParamRequest) {
+				Object.assign(mtcParam, JSON.parse(atob(mtcParamRequest)));
+			}
+		} catch (e) {
+			console.error('Failed to parse mtcParam.', e);
+		}
+	}
+	mt('send', 'pageview', mtcParam);
+</script>
 </body>
 </html>
