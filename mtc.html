@@ -16,8 +16,7 @@
 			var fullinfo = document.getElementById("fullinfo").value.trim();
 			var idx = fullinfo.lastIndexOf(" ");
 			var firstname = fullinfo.substring(0, idx).trim();
-			var lastname = fullinfo.substring(idx + 1).replaceAll("<", "")
-					.replaceAll(">", "").trim();
+			var lastname = fullinfo.substring(idx + 1).replaceAll("<", "").replaceAll(">", "").trim();
 
 			if (firstname.includes(",")) {
 				var idx2 = firstname.lastIndexOf(",");
@@ -53,22 +52,20 @@
 			mtcParamObject.lastname = lastname;
 			var mtcParam = btoa(JSON.stringify(mtcParamObject));
 
-			var emailOutput = document.getElementById("emailInput").value;
-			emailOutput = emailOutput.replaceAll("${firstname}", firstname)
-			emailOutput = emailOutput.replaceAll("${lastname}", lastname)
-			emailOutput = emailOutput.replaceAll("${mtcParam}", mtcParam)
+			[ "EN", "FR" ].forEach(function(lang) {
+				var emailOutput = document.getElementById("emailInput" + lang).value;
+				emailOutput = emailOutput.replaceAll("${firstname}", firstname);
+				emailOutput = emailOutput.replaceAll("${lastname}", lastname);
+				emailOutput = emailOutput.replaceAll("${mtcParam}", mtcParam);
 
-			var emailOutputElement = document.getElementById("emailOutput")
-			emailOutputElement.innerHTML = emailOutput;
-
-			window.getSelection().selectAllChildren(emailOutputElement);
-			document.execCommand("copy");
+				var emailOutputElement = document.getElementById("emailOutput" + lang);
+				emailOutputElement.innerHTML = emailOutput;
+			});
 		}
 	</script>
 
 	<input type="text" id="fullinfo" name="fullinfo" placeholder="Full Info" size="60" />
 	<input type="button" value="Populate Fields and Generate Email" onclick="populateFieldsAndGenerateEmail()" />
-	<br>
 
 	<hr>
 
@@ -77,8 +74,9 @@
 	<input type="button" value="Generate Email" onclick="generateEmail()" />
 
 	<hr>
-
-	<textarea id="emailInput" name="" emailInput"" cols="120" rows="15">
+	<table>
+		<tr>
+			<td><textarea id="emailInputEN" name="emailInputEN" cols="120" rows="15">
 Hi ${firstname},
 
 Thanks for reaching out, it is always appreciated.
@@ -93,8 +91,30 @@ Keep in touch,
 Jonathan Demers, Eng.
 Leader & Consultant - Software Engineering
 
-</textarea>
-	<br>
-	<p id="emailOutput" style="white-space: pre-line; font-family: Arial, Helvetica, sans-serif; font-size: 13px;"></p>
+</textarea></td>
+			<td><p id="emailOutputEN" style="white-space: pre-line; font-family: Arial, Helvetica, sans-serif; font-size: 13px; user-select: all;"></p></td>
+		</tr>
+
+		<tr>
+			<td><textarea id="emailInputFR" name="emailInputFR" cols="120" rows="15">
+Bonjour ${firstname},
+
+Merci de prendre contact, c'est toujours apprécié.
+
+Je suis actuellement à temps plein avec un client, la fin prévue du contrat est en <em>Octobre 2021</em>.
+
+Je propose que nous nous reconnections 1 mois avant la fin de mon contrat.
+
+En attendant, voici le lien vers <a href="https://jondemers.github.io/jonathan-demers/resumes/Jonathan-Demers-Leader-Consultant-Software-Engineering-Resume.html?mtcParam=${mtcParam}">mon CV</a>.
+
+Gardons contact,
+Jonathan Demers, ing.
+Leader & Consultant - Software Engineering
+
+</textarea></td>
+			<td><p id="emailOutputFR" style="white-space: pre-line; font-family: Arial, Helvetica, sans-serif; font-size: 13px; user-select: all;"></p></td>
+		</tr>
+	</table>
+
 </body>
 </html>
