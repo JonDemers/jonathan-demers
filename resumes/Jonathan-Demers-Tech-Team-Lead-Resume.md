@@ -36,12 +36,13 @@ Creative, hands on leader with extensive experience in software engineering. Hig
 Accelerate software development cycle for multiple clients. Consulting services includes organizational leadership, infrastructure & architecture vision, strategy and hands-on execution.  
 
 - **Leadership**: Innovation, Communication, Motivation, Strategic thinking, Problem solving, Decision making, and more...
-- **Backend**: Java, J2EE, Spring, NodeJS, Typescript, Python, Web services, REST, OAuth, SQL, Linux, Cloud, and more...
-- **Frontend**: HTML, CSS, Javascript, Angular, Bootstrap, REST, and more...
+- **Backend**: Java, J2EE, Spring, NodeJS, TypeScript, Python, Web services, REST, OAuth, SQL, Linux, Cloud, and more...
+- **Frontend**: React, HTML, JavaScript, TypeScript, Angular, REST, CSS, Bootstrap, and more...
 
 Multiple clients, including (non-exhaustive list):
 
-- **TD Bank - Development Lead** (*2018 - Present*): [**Details below**](#td-bank)
+- **NBC - Full Stack Dev Lead** (*2020 - Present*): [**Details below**](#nbc)
+- **TD Bank - Development Lead** (*2018 - 2020*): [**Details below**](#td-bank)
 - **Pstox - Senior Software Engineer** (*2017 - 2018*): Development and architecture on ThinkingCapital's online financing platform for businesses, which got successfully acquired by Purpose Financial. Multiple system integrations, including SalesForce and Equifax.
 - **Morgan Stanley - Senior Software Engineer** (*2015 - 2017*): [**Details below**](#morgan-stanley)
 - **TERN Financial Group - Senior Software Engineer & Architect** (*2014 - Present*): Fully design, develop, host and maintain TERNingpoint quote and policy management system.
@@ -56,20 +57,35 @@ Multiple clients, including (non-exhaustive list):
 
 Technologies: Java 11, Java 8, J2EE, Maven, Spring, Spring Boot, OSGi, JPA, Hibernate, QuickFIX/J, JSch, Struts, Tomcat, Jetty, Mule ESB EE, Websphere, Jenkins, JMeter, REST, JSON, OAuth2, JWT, Swagger, Auth0, SOAP, JAXB, WSDL, XSD, MySQL, Oracle, MS SQL server, Elasticsearch, HTML, CSS, Bootstrap, JQuery, Cloud, AWS, EC2, RDS, VPC, DNS, TLS/SSL, certbot, Linux, Ubuntu, Red Hat, Debian, Docker, Eclipse, Android SDK, Anypoint Studio, RAD, RTC, Git, Jira
 
+## <a id="nbc"></a>National Bank of Canada - Full Stack Dev Lead (Consultant)
+
+*2020 - Present*
+
+- Lead agile squad of frontend, backend, SQL and test-automation developers.
+- Advise the program management on organizational matters.
+- Recruit, onboard, motivate, assign tasks, unblock and evaluate performance of squad members.
+- Provide feedback on program architecture solutions.
+- Advise on project and delivery planning.
+- Facilitate communications between business stakeholders and technical members.
+
+Projects: SOMA. Multiple system integrations, including very legacy systems. Internet facing application.
+
+Technologies: Java 11, Spring Boot, React, TypeScript, Selenium, Microservices, REST, GraphQL, OpenAPI, OAuth 2.0, PKCE, Okta, Sybase, MariaDB, IBM MQ, Camunda, Maven, npm, Linux, Bash scripting, OpenShift, Kubernetes, helm, vault, Harness, Docker, CI/CD, Jenkins, Nexus, Veracode, IQ Server, Git, Splunk, Datadog, Atlassian suite (Bitbucket, Jira, Confluence, etc.), Agile methodology, SAFe.
+
 ## <a id="td-bank"></a>TD Bank - Development Lead (Consultant)
 
-*2018 - Present*
+*2018 - 2020*
 
 - Lead teams of developers and devops on numerous successful enterprise projects.
 - Advise the department senior director on organizational matters.
 - Architecture vision and design on new A/B infrastructure.
 - Steer the new CI/CD pipeline vision and development.
 - Advise on project and delivery planning.
-- Facilitate communication between business stakeholders and technical teams.
+- Facilitate communications between business stakeholders and technical teams.
 
 Projects: GPS 2.1, GPS 2.2 and much more. Multiple system integrations. Buy online. Customer facing applications: [MyInsurance](https://myinsurance.td.com), [DigitalQuoter](https://www.tdinsurance.com/quote/car).
 
-Technologies: Java, Spring, Maven, JBoss, OAuth 2.0, REST, Soap, Angular, Typescript, NodeJS, PM2, npm, VSCode, Oracle, Linux (RHEL), Git, Atlassian suite (Bitbucket, Jira, confluence, etc.), CDN, Private Cloud, CI/CD, Jenkins, Ansible, Docker, Agile methodology.
+Technologies: Java, Spring, Maven, JBoss, OAuth 2.0, REST, Soap, Angular, TypeScript, NodeJS, PM2, npm, VSCode, Oracle, Linux (RHEL), Git, Atlassian suite (Bitbucket, Jira, confluence, etc.), CDN, Private Cloud, CI/CD, Jenkins, Ansible, Docker, Veracode, IQ Server, Agile methodology.
 
 ## <a id="morgan-stanley"></a>Morgan Stanley - Senior Software Engineer (Consultant)
 
@@ -102,7 +118,7 @@ From entry-level Developer to Senior Software Developer & Architect. Learnt real
 - **Institut de recherche d'Hydro-Quebec - Software Developer** (*2002*): Develop real-time software and hardware integration for underwater robot used for the inspection of hydroelectric dams.
 - **Canadian Space Agency - Intern** (*2001*): Develop testbed to measure the performance of spatial RF communication modules.
 
-Technologies: Java, J2EE, Tomcat, JBoss, Websphere, Servlet, Jsp, Taglibs, Html, Javascript, XML, DTD, XSLT, XPaths, JAX-WS, SOAP, IBM MQSeries, Linux, AIX, Oracle, Informix, Sybase, PostgreSQL, MatLab, C++, Inertial navigation system, Kalman Filter, QNX Real Time OS (RTOS).
+Technologies: Java, J2EE, Tomcat, JBoss, Websphere, Servlet, Jsp, Taglibs, Html, JavaScript, XML, DTD, XSLT, XPaths, JAX-WS, SOAP, IBM MQSeries, Linux, AIX, Oracle, Informix, Sybase, PostgreSQL, MatLab, C++, Inertial navigation system, Kalman Filter, QNX Real Time OS (RTOS).
 
 # <div align="center">EDUCATION</div>
 

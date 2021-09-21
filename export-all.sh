@@ -42,6 +42,8 @@ for position_title_normalcase in \
   sed -i -r "s|POSITION_TITLE_UPPERCASE|$position_title_uppercase|g" $resume_filename.md
   sed -i -r "s|POSITION_TITLE_NORMALCASE|$position_title_normalcase|g" $resume_filename.md
   grip $resume_filename.md --title=" " --export $resume_filename.html
+  sed -i -r 's/ rel="nofollow"//g' $resume_filename.html
+  unix2dos $resume_filename.html
   wkhtmltopdf --page-size letter $resume_filename.html $resume_filename.pdf
 
   for ext in md html pdf; do
