@@ -14,7 +14,7 @@ Please consider my candidacy for the role of **DevOps Lead**. Throughout 18 year
 
 This diversity of practical knowledge gives me a clear vision not only on the best technology to accomplish a given goal, but also on the best team structures and strategies to deliver value for businesses and customers.  
 
-I am fully bilingual in French and English and I have many sought-after leadership skills, which makes me a great fit for this role. I’d be glad to schedule a time to discuss about this position of **DevOps Lead**. I am eager to accomplish new challenges as early as **June 29 2020**.
+I am fully bilingual in French and English and I have many sought-after leadership skills, which makes me a great fit for this role. I'd be glad to schedule a time to discuss about this position.
 
 Jonathan Demers, Eng.  
 
