@@ -10,11 +10,11 @@ Latest version:
 
 # <div align="center">DIRECTOR OF ENGINEERING</div>
 
-Please consider my candidacy for the role of **Director of Engineering**. Throughout 18 years experience in software development, including 12 years as senior consultant for multiple businesses, I acquired rich and diversified experience.
+Please consider my candidacy for the role of **Director of Engineering**. With 20 years experience in software development and over 10 years as senior consultant for multiple businesses, I acquired rich and diversified experience.
 
-This diversity of practical knowledge gives me a clear vision not only on the best technology to accomplish a given goal, but also on the best team structures and strategies to deliver value for businesses and customers.  
+This diversity of practical knowledge gives me a clear vision not only on the best technology to accomplish a given goal, but also on the best team structures and strategies to deliver value for your organization and customers.  
 
-I am fully bilingual in French and English and I have many sought-after leadership skills, which makes me a great fit for this role. I'd be glad to schedule a time to discuss about this position.
+I am fully bilingual in French and English and I have many sought-after leadership skills, which makes me a great fit for this role. I'd be glad to schedule a time to discuss this position.
 
 Jonathan Demers, Eng.  
 
@@ -156,6 +156,8 @@ This 5-Star *"Leading People and Teams Specialization"* from Michigan faculty st
 - Natural Language Processing (NLP) in TensorFlow
 - Sequences, Time Series and Prediction
 
+Technologies: Python, TensorFlow, Keras, Pandas, NumPy, Matplotlib
+
 ## deeplearning.ai - Artificial Intelligence - Deep Learning
 
 [Certificate Issued 2019](https://www.coursera.org/account/accomplishments/specialization/certificate/XTJ9RM2UHB2A) - 5 courses, 16 weeks:
@@ -165,10 +167,11 @@ This 5-Star *"Leading People and Teams Specialization"* from Michigan faculty st
 - Convolutional Neural Networks
 - Sequence Models
 
+Technologies: Python, TensorFlow, Keras, Pandas, NumPy, Matplotlib
+
 ## MuleSoft - MuleSoft Certified Developer - Integration and API Associate
 
-[Certificate Issued 2017](https://training.mulesoft.com/award/certification/58de6729-1fed-34ef-a81c-7971b5113814) (2 years validity)
-
+Certificate Issued 2017 (2 years validity)
 
 # <div align="center">REFERENCES</div>
 
