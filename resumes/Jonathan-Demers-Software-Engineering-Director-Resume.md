@@ -1,14 +1,16 @@
-# <div align="center">Jonathan Demers</div>
+# Jonathan Demers
 
 Montreal, QC, H4J 1K5, Canada  
-<jdemers@opcodesolutions.com>  
+<a href=" mailto:jdemers@opcodesolutions.com">jdemers@opcodesolutions.com</a>  
 [linkedin.com/in/jonathan-demers-ing](https://www.linkedin.com/in/jonathan-demers-ing)  
 Latest version: 
 [MD](https://github.com/JonDemers/jonathan-demers/blob/master/resumes/Jonathan-Demers-Software-Engineering-Director-Resume.md),
 [HTML](https://jondemers.github.io/jonathan-demers/resumes/Jonathan-Demers-Software-Engineering-Director-Resume.html),
 [PDF](https://jondemers.github.io/jonathan-demers/resumes/Jonathan-Demers-Software-Engineering-Director-Resume.pdf)
 
-# <div align="center">SOFTWARE ENGINEERING DIRECTOR</div>
+---
+
+# Software Engineering Director
 
 Please consider my candidacy for the role of **Software Engineering Director**. With 20 years experience in software development and over 10 years as senior consultant for multiple businesses, I acquired rich and diversified experience.
 
@@ -18,8 +20,9 @@ I am fully bilingual in French and English and I have many sought-after leadersh
 
 Jonathan Demers, Eng.  
 
+---
 
-# <div align="center">MANAGEMENT PROFILE</div>
+# Management Profile
 
 Creative, hands on leader with extensive experience in software engineering. Highly technical, inspiring and motivating model for other leaders and teams. Fast learner, excellent problem solver and strategic decision maker, with natural propensity to perform in fast paced environments. Thorough understanding of both organizational and technical stakes of software development and their relationships.
 
@@ -27,7 +30,9 @@ Creative, hands on leader with extensive experience in software engineering. Hig
 |:-------------:|:-------------:|
 | ✓&nbsp;Organizational&nbsp;Leadership ✓&nbsp;Strategic&nbsp;Planning ✓&nbsp;Team&nbsp;Coordination ✓&nbsp;Talent&nbsp;Management ✓&nbsp;Coaching ✓&nbsp;Vision&nbsp;Alignment ✓&nbsp;Goal&nbsp;Setting ✓&nbsp;Team&nbsp;Leadership ✓&nbsp;Communication ✓&nbsp;Collaboration ✓&nbsp;Management | ✓&nbsp;Software&nbsp;Development&nbsp;Life&nbsp;Cycle&nbsp;(SDLC) ✓&nbsp;Agile&nbsp;Methodologies ✓&nbsp;Architecture ✓&nbsp;Distributed&nbsp;Systems ✓&nbsp;Design&nbsp;Patterns ✓&nbsp;REST ✓&nbsp;SOA ✓&nbsp;DevOps ✓&nbsp;System&nbsp;Integration ✓&nbsp;Cloud ✓&nbsp;Development |
 
-# <div align="center">PROFESSIONAL EXPERIENCE</div>
+---
+
+# Professional Experience
 
 ## OpCode Solutions - Leader & Consultant - Software Engineering
 
@@ -120,7 +125,9 @@ From entry-level Developer to Senior Software Developer & Architect. Learnt real
 
 Technologies: Java, J2EE, Tomcat, JBoss, Websphere, Servlet, Jsp, Taglibs, Html, JavaScript, XML, DTD, XSLT, XPaths, JAX-WS, SOAP, IBM MQSeries, Linux, AIX, Oracle, Informix, Sybase, PostgreSQL, MatLab, C++, Inertial navigation system, Kalman Filter, QNX Real Time OS (RTOS).
 
-# <div align="center">EDUCATION</div>
+---
+
+# Education
 
 ## University of Michigan - Specialization, Organizational Leadership
 
@@ -146,7 +153,9 @@ This 5-Star *"Leading People and Teams Specialization"* from Michigan faculty st
 
 *[GPA: 3.8](https://jondemers.github.io/jonathan-demers/Jonathan-Demers-Polytechnique-Bulletin.pdf) (max of 4.0 at Polytechnique)*
 
-# <div align="center">CERTIFICATIONS</div>
+---
+
+# Certifications
 
 ## deeplearning.ai - Artificial Intelligence - TensorFlow in Practice
 
@@ -173,12 +182,14 @@ Technologies: Python, TensorFlow, Keras, Pandas, NumPy, Matplotlib
 
 Certificate Issued 2017 (2 years validity)
 
-# <div align="center">REFERENCES</div>
+---
 
-*"[Jonathan Demers] is a strong lead who takes full ownership and able to effectively and efficiently communicate to different levels. Jonathan has strong technical background that helps him provide options to technical and delivery problems. I recommend Jonathan and I hope to have a chance to work with him again."*  
+# References
+
+*"\[Jonathan Demers\] is a strong lead who takes full ownership and able to effectively and efficiently communicate to different levels. Jonathan has strong technical background that helps him provide options to technical and delivery problems. I recommend Jonathan and I hope to have a chance to work with him again."*  
 -- George Gouel, Senior manager, Delivery & partner management at TD
 
-*"[Jonathan Demers] really help us to deliver multiples projects under his excellent technical and strong delivery skills. He also imposed himself as versatile around whole development reality, technical issues, infrastructure design and configuration. I strongly recommend Jonathan [...]"*  
+*"\[Jonathan Demers\] really help us to deliver multiples projects under his excellent technical and strong delivery skills. He also imposed himself as versatile around whole development reality, technical issues, infrastructure design and configuration. I strongly recommend Jonathan \[...\]"*  
 -- Guillaume Roberge, Senior Manager, Software Development at TD
 
 *"Jonathan is efficient, competent and has an excellent knowledge of architecture, design, development and the Java language. He is a key player and person to have on your major project."*  

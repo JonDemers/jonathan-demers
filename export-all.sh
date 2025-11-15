@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Requirements: grip, wkhtmltopdf
-# pip install grip
-# https://github.com/pdfkit/pdfkit/wiki/Installing-WKHTMLTOPDF
+# sudo apt install pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-extra texlive-xetex texlive-fonts-extra fonts-liberation fonts-noto
+# wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6.1-3/wkhtmltox_0.12.6.1-3.bookworm_amd64.deb
+# sudo apt install ./wkhtmltox_0.12.6.1-3.bookworm_amd64.deb
 
 set -e
 
@@ -42,9 +42,12 @@ for position_title_normalcase in \
   sed -i -r "s|POSITION_TITLE_UPPERCASE|$position_title_uppercase|g" $resume_filename.md
   sed -i -r "s|POSITION_TITLE_NORMALCASE|$position_title_normalcase|g" $resume_filename.md
 
-  grip $resume_filename.md --title=" " --export $resume_filename.html
+  pandoc $resume_filename.md -o $resume_filename.html \
+    --standalone \
+    --highlight-style=tango \
+    --metadata title=" " \
+    --css=https://cdn.jsdelivr.net/npm/water.css@2/out/water.css
   sed -i -r "s|<title> </title>|<title>Jonathan Demers - $position_title_normalcase</title>|g" $resume_filename.html
-  sed -i -r 's| rel="nofollow"||g' $resume_filename.html
   sed -i '/<\/body>/e cat Jonathan-Demers-Resume-Template-Footer.html' $resume_filename.html
   unix2dos $resume_filename.html
 
