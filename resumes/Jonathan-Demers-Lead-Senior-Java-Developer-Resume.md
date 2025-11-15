@@ -12,7 +12,7 @@ Latest version:
 
 # Lead/Senior Java Developer
 
-Please consider my candidacy for the role of **Lead/Senior Java Developer**. With 20 years experience in software development and over 10 years as senior consultant for multiple businesses, I acquired rich and diversified experience.
+Please consider my candidacy for the role of **Lead/Senior Java Developer**. With 20 years experience in software development and over 15 years as senior consultant for multiple businesses, I acquired rich and diversified experience.
 
 This diversity of practical knowledge gives me a clear vision not only on the best technology to accomplish a given goal, but also on the best team structures and strategies to deliver value for your organization and customers.  
 
@@ -46,11 +46,12 @@ Accelerate software development cycle for multiple clients. Consulting services 
 
 Multiple clients, including (non-exhaustive list):
 
-- **NBC - Full Stack Dev Lead** (*2020 - Present*): [**Details below**](#nbc)
+- **iA Private Wealth - Technology Leader** (*2022 - Present*): [**Details below**](#ia)
+- **NBC - Full Stack Dev Lead** (*2020 - 2022*): [**Details below**](#nbc)
 - **TD Bank - Development Lead** (*2018 - 2020*): [**Details below**](#td-bank)
 - **Pstox - Senior Software Engineer** (*2017 - 2018*): Development and architecture on ThinkingCapital's online financing platform for businesses, which got successfully acquired by Purpose Financial. Multiple system integrations, including SalesForce and Equifax.
 - **Morgan Stanley - Senior Software Engineer** (*2015 - 2017*): [**Details below**](#morgan-stanley)
-- **TERN Financial Group - Senior Software Engineer & Architect** (*2014 - Present*): Fully design, develop, host and maintain TERNingpoint quote and policy management system.
+- **TERN Financial Group - Senior Software Engineer & Architect** (*2014 - 2022*): Fully design, develop, host and maintain TERNingpoint quote and policy management system.
 - **Intact - Senior Software Engineer** (*2013 - 2014*): Development on new insurance policy management system with service oriented architecture (SOA backend). Project: PAS.
 - **Industrial Alliance Securities - Senior Software Engineer** (*2013*): Architecture and development on new fixed income trading platform (Bond Trader). Multiple system integrations, including:
   - Bloomberg TOMS for real-time price feed and trade capture report over FIX protocol.
@@ -62,9 +63,30 @@ Multiple clients, including (non-exhaustive list):
 
 Technologies: Java 11, Java 8, J2EE, Maven, Spring, Spring Boot, OSGi, JPA, Hibernate, QuickFIX/J, JSch, Struts, Tomcat, Jetty, Mule ESB EE, Websphere, Jenkins, JMeter, REST, JSON, OAuth2, JWT, Swagger, Auth0, SOAP, JAXB, WSDL, XSD, MySQL, Oracle, MS SQL server, Elasticsearch, HTML, CSS, Bootstrap, JQuery, Cloud, AWS, EC2, RDS, VPC, DNS, TLS/SSL, certbot, Linux, Ubuntu, Red Hat, Debian, Docker, Eclipse, Android SDK, Anypoint Studio, RAD, RTC, Git, Jira
 
+## <a id="ia"></a>iA Private Wealth - Technology Leader (Consultant)
+
+*2022 - Present*
+
+- Oversee full development lifecycle of 40+ financial applications (internal and from vendors).
+- Review 50+ annual PROD deployments, proactively identify and address risks to maintain business operations.
+- Manage multiple development squads: interview, coach, support, performance review, etc.
+- Produce estimates for new projects and initiatives, task breakdown and assignment.
+- Hands-on work on the most critical initiatives, ensuring goal achievement.
+- Swift resolution of critical incidents, sometimes in very creative ways, minimizing downtime and ensuring business continuity.
+
+Systems include:
+
+- 7 FIX trading connections with a total throughput of over 20 Million messages per day.
+- Several dozens of databases, including a critical 10 Terabytes MySQL DB.
+- Multiple integration points with third-party systems, including Bloomberg, JPMorgan, UBS, CIRO (formerly IIROC), IBM ISM/OSS, and much more.
+- 100+ Git repos, 200+ Jobs, 1000+ Workloads.
+
+Extremely diversified ecosystems: GitHub Copilot, Kubernetes, Linux servers, Windows servers, IIS farm, Java, .Net, PHP, Azure Cloud, On-Prem infrastructure, Azure DevOps pipelines, Jenkins pipelines, MSSQL, MySQL and more.
+
+
 ## <a id="nbc"></a>National Bank of Canada - Full Stack Dev Lead (Consultant)
 
-*2020 - Present*
+*2020 - 2022*
 
 - Lead agile squad of frontend, backend, SQL and test-automation developers.
 - Advise the program management on organizational matters.
