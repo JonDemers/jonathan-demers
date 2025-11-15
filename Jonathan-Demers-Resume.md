@@ -12,23 +12,23 @@ Latest version:
 
 # Leader & Consultant - Software Engineering
 
-Please consider my candidacy for the role of **Leader & Consultant - Software Engineering**. With 20 years experience in software development and over 15 years as senior consultant for multiple businesses, I acquired rich and diversified experience.
+Please consider my candidacy for the role of **Leader & Consultant - Software Engineering**. With 20 years of software development experience and over 15 years as a senior consultant across diverse organisations, I bring deep technical expertise and proven leadership.
 
-This diversity of practical knowledge gives me a clear vision not only on the best technology to accomplish a given goal, but also on the best team structures and strategies to deliver value for your organization and customers.  
+This breadth of experience provides me with clear insight into selecting optimal technologies and architectures while building high-performing teams and strategies that deliver measurable value. I leverage modern technologies and AI strategically to accelerate delivery, eliminate repetitive work, and elevate code quality and technical decisions.
 
-I am fully bilingual in French and English and I have many sought-after leadership skills, which makes me a great fit for this role. I'd be glad to schedule a time to discuss this position.
+I am fully bilingual in French and English with strong leadership capabilities, making me well-suited for this role. I welcome the opportunity to discuss how I can contribute to your organization.
 
-Jonathan Demers, Eng.  
+Jonathan Demers, Eng.
 
 ---
 
 # Management Profile
 
-Creative, hands on leader with extensive experience in software engineering. Highly technical, inspiring and motivating model for other leaders and teams. Fast learner, excellent problem solver and strategic decision maker, with natural propensity to perform in fast paced environments. Thorough understanding of both organizational and technical stakes of software development and their relationships.
+Creative, hands-on leader with extensive experience in software engineering. Highly technical, with a proven ability to inspire and motivate teams and other leaders. Fast learner, strong problem solver, and strategic decision maker with a natural aptitude for high-pressure environments. Deep understanding of both organizational and technical dimensions of software development and their interdependencies.
 
 | Leadership | Technical|
 |:-------------:|:-------------:|
-| ✓&nbsp;Organizational&nbsp;Leadership ✓&nbsp;Strategic&nbsp;Planning ✓&nbsp;Team&nbsp;Coordination ✓&nbsp;Talent&nbsp;Management ✓&nbsp;Coaching ✓&nbsp;Vision&nbsp;Alignment ✓&nbsp;Goal&nbsp;Setting ✓&nbsp;Team&nbsp;Leadership ✓&nbsp;Communication ✓&nbsp;Collaboration ✓&nbsp;Management | ✓&nbsp;Software&nbsp;Development&nbsp;Life&nbsp;Cycle&nbsp;(SDLC) ✓&nbsp;Agile&nbsp;Methodologies ✓&nbsp;Architecture ✓&nbsp;Distributed&nbsp;Systems ✓&nbsp;Design&nbsp;Patterns ✓&nbsp;REST ✓&nbsp;SOA ✓&nbsp;DevOps ✓&nbsp;System&nbsp;Integration ✓&nbsp;Cloud ✓&nbsp;Development |
+| ✓&nbsp;Organizational&nbsp;Leadership ✓&nbsp;Strategic&nbsp;Planning ✓&nbsp;Team&nbsp;Coordination ✓&nbsp;Talent&nbsp;Management ✓&nbsp;Coaching ✓&nbsp;Vision&nbsp;Alignment ✓&nbsp;Goal&nbsp;Setting ✓&nbsp;Team&nbsp;Leadership ✓&nbsp;Communication ✓&nbsp;Collaboration ✓&nbsp;Management | ✓&nbsp;Software&nbsp;Development&nbsp;Life&nbsp;Cycle&nbsp;(SDLC) ✓&nbsp;Agile&nbsp;Methodologies ✓&nbsp;Architecture ✓&nbsp;Distributed&nbsp;Systems ✓&nbsp;Design&nbsp;Patterns ✓&nbsp;REST ✓&nbsp;SOA ✓&nbsp;DevOps ✓&nbsp;System&nbsp;Integration ✓&nbsp;Cloud ✓&nbsp;AI&nbsp;Integration |
 
 ---
 
@@ -38,18 +38,19 @@ Creative, hands on leader with extensive experience in software engineering. Hig
 
 *Aug 2008 - Present*
 
-Accelerate software development cycle for multiple clients. Consulting services includes organizational leadership, infrastructure & architecture vision, strategy and hands-on execution.  
+Accelerate software development cycles for multiple clients. Consulting services include organizational leadership, infrastructure and architecture strategy, and hands-on execution. Strategic adoption of AI tools to enhance productivity and technical decision-making.
 
-- **Leadership**: Innovation, Communication, Motivation, Strategic thinking, Problem solving, Decision making, and more...
-- **Backend**: Java, J2EE, Spring, NodeJS, TypeScript, Python, Web services, REST, OAuth, SQL, Linux, Cloud, and more...
-- **Frontend**: React, HTML, JavaScript, TypeScript, Angular, REST, CSS, Bootstrap, and more...
+- **Leadership**: Innovation, Communication, Motivation, Strategic thinking, Problem solving, Decision making
+- **Backend**: Java, J2EE, Spring, NodeJS, TypeScript, Python, Web services, REST, OAuth, SQL, Linux, Cloud
+- **Frontend**: React, HTML, JavaScript, TypeScript, Angular, REST, CSS, Bootstrap
+- **AI & Automation**: GitHub Copilot, AI-assisted code generation, automated testing optimization
 
 Multiple clients, including (non-exhaustive list):
 
 - **iA Private Wealth - Technology Leader** (*2022 - Present*): [**Details below**](#ia)
 - **NBC - Full Stack Dev Lead** (*2020 - 2022*): [**Details below**](#nbc)
 - **TD Bank - Development Lead** (*2018 - 2020*): [**Details below**](#td-bank)
-- **Pstox - Senior Software Engineer** (*2017 - 2018*): Development and architecture on ThinkingCapital's online financing platform for businesses, which got successfully acquired by Purpose Financial. Multiple system integrations, including SalesForce and Equifax.
+- **Pstox - Senior Software Engineer** (*2017 - 2018*): Development and architecture on ThinkingCapital's online financing platform for businesses, which got successfully acquired by Purpose Financial. Multiple system integrations, including Salesforce and Equifax.
 - **Morgan Stanley - Senior Software Engineer** (*2015 - 2017*): [**Details below**](#morgan-stanley)
 - **TERN Financial Group - Senior Software Engineer & Architect** (*2014 - 2022*): Fully design, develop, host and maintain TERNingpoint quote and policy management system.
 - **Intact - Senior Software Engineer** (*2013 - 2014*): Development on new insurance policy management system with service oriented architecture (SOA backend). Project: PAS.
@@ -67,21 +68,22 @@ Technologies: Java 11, Java 8, J2EE, Maven, Spring, Spring Boot, OSGi, JPA, Hibe
 
 *2022 - Present*
 
-- Oversee full development lifecycle of 40+ financial applications (internal and from vendors).
-- Review 50+ annual PROD deployments, proactively identify and address risks to maintain business operations.
-- Manage multiple development squads: interview, coach, support, performance review, etc.
-- Produce estimates for new projects and initiatives, task breakdown and assignment.
-- Hands-on work on the most critical initiatives, ensuring goal achievement.
-- Swift resolution of critical incidents, sometimes in very creative ways, minimizing downtime and ensuring business continuity.
+- Oversee full development lifecycle of 40+ financial applications (internal and vendor-supplied).
+- Review 50+ production deployments annually, proactively identify and mitigate risks to ensure operational continuity.
+- Manage multiple development teams: recruit, coach, mentor, and evaluate performance.
+- Deliver project estimates, task breakdowns, and resource assignments.
+- Lead hands-on execution of critical initiatives to ensure successful delivery.
+- Rapidly resolve critical incidents with creative problem-solving to minimize downtime and maintain business continuity.
+- Leverage AI tools including GitHub Copilot to optimize code analysis, accelerate development velocity, and improve code quality.
 
 Systems include:
 
-- 7 FIX trading connections with a total throughput of over 20 Million messages per day.
-- Several dozens of databases, including a critical 10 Terabytes MySQL DB.
-- Multiple integration points with third-party systems, including Bloomberg, JPMorgan, UBS, CIRO (formerly IIROC), IBM ISM/OSS, and much more.
-- 100+ Git repos, 200+ Jobs, 1000+ Workloads.
+- 7 FIX trading connections processing over 20 million messages daily.
+- Multiple critical databases including a 10-terabyte MySQL instance.
+- Integration points with premium vendors: Bloomberg, JPMorgan, UBS, CIRO (formerly IIROC), IBM ISM/OSS, and more.
+- 100+ Git repositories, 200+ automated jobs, 1000+ workloads.
 
-Extremely diversified ecosystems: GitHub Copilot, Kubernetes, Linux servers, Windows servers, IIS farm, Java, .Net, PHP, Azure Cloud, On-Prem infrastructure, Azure DevOps pipelines, Jenkins pipelines, MSSQL, MySQL and more.
+Diversified technology ecosystem: GitHub Copilot, Kubernetes, Linux, Windows, IIS, Java, .Net, PHP, Azure Cloud, on-premises infrastructure, Azure DevOps, Jenkins, MSSQL, MySQL and more.
 
 
 ## <a id="nbc"></a>National Bank of Canada - Full Stack Dev Lead (Consultant)
