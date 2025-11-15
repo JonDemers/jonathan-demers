@@ -12,9 +12,9 @@ Latest version:
 
 # Senior Java Tech Lead
 
-Please consider my candidacy for the role of **Senior Java Tech Lead**. With 20 years of software development experience and over 15 years as a senior consultant across diverse organisations, I bring deep technical expertise and proven leadership.
+Please consider my candidacy for the role of **Senior Java Tech Lead**. With 15+ years as a senior consultant and technology leader across diverse organisations, I bring deep technical expertise and proven leadership.
 
-This breadth of experience provides me with clear insight into selecting optimal technologies and architectures while building high-performing teams and strategies that deliver measurable value. I leverage modern technologies and AI strategically to accelerate delivery, eliminate repetitive work, and elevate code quality and technical decisions.
+This breadth of experience provides me with clear insight into selecting optimal technologies and architectures while building high-performing teams and strategies that deliver measurable value. I am committed to reliability, scalability, and operational excellence. I leverage modern technologies and AI strategically to accelerate delivery, eliminate repetitive work, and elevate code quality and technical decisions.
 
 I am fully bilingual in French and English with strong leadership capabilities, making me well-suited for this role. I welcome the opportunity to discuss how I can contribute to your organization.
 
@@ -24,11 +24,11 @@ Jonathan Demers, Eng.
 
 # Management Profile
 
-Creative, hands-on leader with extensive experience in software engineering. Highly technical, with a proven ability to inspire and motivate teams and other leaders. Fast learner, strong problem solver, and strategic decision maker with a natural aptitude for high-pressure environments. Deep understanding of both organizational and technical dimensions of software development and their interdependencies.
+Creative, hands-on leader with extensive experience in software engineering. Highly technical, with a proven ability to inspire and motivate teams and other leaders. Fast learner, strong problem solver, and strategic decision maker with a natural aptitude for fast-paced environments. Deep understanding of both organizational and technical dimensions of software development and their interdependencies. Focused on delivering reliable, scalable solutions that drive business outcomes.
 
-| Leadership | Technical|
-|:-------------:|:-------------:|
-| ✓&nbsp;Organizational&nbsp;Leadership ✓&nbsp;Strategic&nbsp;Planning ✓&nbsp;Team&nbsp;Coordination ✓&nbsp;Talent&nbsp;Management ✓&nbsp;Coaching ✓&nbsp;Vision&nbsp;Alignment ✓&nbsp;Goal&nbsp;Setting ✓&nbsp;Team&nbsp;Leadership ✓&nbsp;Communication ✓&nbsp;Collaboration ✓&nbsp;Management | ✓&nbsp;Software&nbsp;Development&nbsp;Life&nbsp;Cycle&nbsp;(SDLC) ✓&nbsp;Agile&nbsp;Methodologies ✓&nbsp;Architecture ✓&nbsp;Distributed&nbsp;Systems ✓&nbsp;Design&nbsp;Patterns ✓&nbsp;REST ✓&nbsp;SOA ✓&nbsp;DevOps ✓&nbsp;System&nbsp;Integration ✓&nbsp;Cloud ✓&nbsp;AI&nbsp;Integration |
+**Leadership:** Organizational Leadership, Strategic Planning, Team Coordination, Talent Management, Coaching, Vision Alignment, Goal Setting, Team Leadership, Communication, Collaboration, Management
+
+**Technical:** Software Development Life Cycle (SDLC), Agile Methodologies, Architecture, Distributed Systems, Design Patterns, REST, SOA, DevOps, System Integration, Cloud, AI Integration
 
 ---
 
@@ -45,35 +45,16 @@ Accelerate software development cycles for multiple clients. Consulting services
 - **Frontend**: React, HTML, JavaScript, TypeScript, Angular, REST, CSS, Bootstrap
 - **AI & Automation**: GitHub Copilot, AI-assisted code generation, automated testing optimization
 
-Multiple clients, including (non-exhaustive list):
+### Key Client Engagements:
 
-- **iA Private Wealth - Technology Leader** (*2022 - Present*): [**Details below**](#ia)
-- **NBC - Full Stack Dev Lead** (*2020 - 2022*): [**Details below**](#nbc)
-- **TD Bank - Development Lead** (*2018 - 2020*): [**Details below**](#td-bank)
-- **Pstox - Senior Software Engineer** (*2017 - 2018*): Development and architecture on ThinkingCapital's online financing platform for businesses, which got successfully acquired by Purpose Financial. Multiple system integrations, including Salesforce and Equifax.
-- **Morgan Stanley - Senior Software Engineer** (*2015 - 2017*): [**Details below**](#morgan-stanley)
-- **TERN Financial Group - Senior Software Engineer & Architect** (*2014 - 2022*): Fully design, develop, host and maintain TERNingpoint quote and policy management system.
-- **Intact - Senior Software Engineer** (*2013 - 2014*): Development on new insurance policy management system with service oriented architecture (SOA backend). Project: PAS.
-- **Industrial Alliance Securities - Senior Software Engineer** (*2013*): Architecture and development on new fixed income trading platform (Bond Trader). Multiple system integrations, including:
-  - Bloomberg TOMS for real-time price feed and trade capture report over FIX protocol.
-  - CBID's trading platform to submit orders and receive executions over FIX protocol.
-  - IBM ISM (SIS) to send phase1 data in real time for DP trades and at EOD via SFTP.
-- **Desjardins - Tech Lead & Senior Software Developer** (*2012 - 2013* & *2010 - 2011*): [**Details below**](#desjardins)
-- **Gemalto (now Thales) - Senior Software Engineer** (*2011 - 2012* & *2008 - 2009*): Develop mobile banking and instant messaging solutions on backend and frontend (Android). Improved performance and stability of backend up to 1000 tx/secs.
-- **Penson Financial Services - Senior Software Developer** (*2010*): Migrate and enhance several financial applications from IBM ISM platform to Broadridge platform.
+#### <a id="ia"></a>iA Private Wealth - Technology Leader (*2022 - Present*)
 
-Technologies: Java 11, Java 8, J2EE, Maven, Spring, Spring Boot, OSGi, JPA, Hibernate, QuickFIX/J, JSch, Struts, Tomcat, Jetty, Mule ESB EE, Websphere, Jenkins, JMeter, REST, JSON, OAuth2, JWT, Swagger, Auth0, SOAP, JAXB, WSDL, XSD, MySQL, Oracle, MS SQL server, Elasticsearch, HTML, CSS, Bootstrap, JQuery, Cloud, AWS, EC2, RDS, VPC, DNS, TLS/SSL, certbot, Linux, Ubuntu, Red Hat, Debian, Docker, Eclipse, Android SDK, Anypoint Studio, RAD, RTC, Git, Jira
-
-## <a id="ia"></a>iA Private Wealth - Technology Leader (Consultant)
-
-*2022 - Present*
-
-- Oversee full development lifecycle of 40+ financial applications (internal and vendor-supplied).
-- Review 50+ production deployments annually, proactively identify and mitigate risks to ensure operational continuity.
+- Oversee full development lifecycle of 40+ financial applications (internal and vendor-supplied), ensuring reliability and business continuity.
+- Review 100+ production deployments annually, proactively identify and mitigate risks to maintain operational excellence.
 - Manage multiple development teams: recruit, coach, mentor, and evaluate performance.
-- Deliver project estimates, task breakdowns, and resource assignments.
-- Lead hands-on execution of critical initiatives to ensure successful delivery.
-- Rapidly resolve critical incidents with creative problem-solving to minimize downtime and maintain business continuity.
+- Deliver project estimates, task breakdowns, and resource assignments to support business planning.
+- Lead hands-on execution of critical initiatives to ensure successful delivery and measurable impact.
+- Rapidly resolve critical incidents with creative problem-solving to minimize downtime and protect business operations.
 - Leverage AI tools including GitHub Copilot to optimize code analysis, accelerate development velocity, and improve code quality.
 
 Systems include:
@@ -85,10 +66,7 @@ Systems include:
 
 Diversified technology ecosystem: GitHub Copilot, Kubernetes, Linux, Windows, IIS, Java, .Net, PHP, Azure Cloud, on-premises infrastructure, Azure DevOps, Jenkins, MSSQL, MySQL and more.
 
-
-## <a id="nbc"></a>National Bank of Canada - Full Stack Dev Lead (Consultant)
-
-*2020 - 2022*
+#### <a id="nbc"></a>National Bank of Canada - Full Stack Dev Lead (*2020 - 2022*)
 
 - Lead agile squad of frontend, backend, SQL and test-automation developers.
 - Advise the program management on organizational matters.
@@ -101,9 +79,7 @@ Projects: SOMA. Multiple system integrations, including very legacy systems. Int
 
 Technologies: Java 11, Spring Boot, React, TypeScript, Selenium, Microservices, REST, GraphQL, OpenAPI, OAuth 2.0, PKCE, Okta, Sybase, MariaDB, IBM MQ, Camunda, Maven, npm, Linux, Bash scripting, OpenShift, Kubernetes, helm, vault, Harness, Docker, CI/CD, Jenkins, Nexus, Veracode, IQ Server, Git, Splunk, Datadog, Atlassian suite (Bitbucket, Jira, Confluence, etc.), Agile methodology, SAFe.
 
-## <a id="td-bank"></a>TD Bank - Development Lead (Consultant)
-
-*2018 - 2020*
+#### <a id="td-bank"></a>TD Bank - Development Lead (*2018 - 2020*)
 
 - Lead teams of developers and devops on numerous successful enterprise projects.
 - Advise the department senior director on organizational matters.
@@ -116,18 +92,14 @@ Projects: GPS 2.1, GPS 2.2 and much more. Multiple system integrations. Buy onli
 
 Technologies: Java, Spring, Maven, JBoss, OAuth 2.0, REST, Soap, Angular, TypeScript, NodeJS, PM2, npm, VSCode, Oracle, Linux (RHEL), Git, Atlassian suite (Bitbucket, Jira, confluence, etc.), CDN, Private Cloud, CI/CD, Jenkins, Ansible, Docker, Veracode, IQ Server, Agile methodology.
 
-## <a id="morgan-stanley"></a>Morgan Stanley - Senior Software Engineer (Consultant)
-
-*2015 - 2017*
+#### <a id="morgan-stanley"></a>Morgan Stanley - Senior Software Engineer (*2015 - 2017*)
 
 - Lead, coach and motivate 2 developers. Advise developer performance to software development VP.
 - Architecture and development on real-time pricing of fixed income securities and search platform used by financial advisors.
 
 Technologies: Java 8, Scala, Linux, DB2, WebSphere MQ, Spring, Hibernate, Spring, Play, SBT, Git, Autosys, Kerberos, Linux, etc.
 
-## <a id="desjardins"></a>Desjardins - Tech Lead & Senior Software Developer (Consultant)
-
-*2012 - 2013* & *2010 - 2011*
+#### <a id="desjardins"></a>Desjardins - Tech Lead & Senior Software Developer (*2012 - 2013* & *2010 - 2011*)
 
 - Lead backend development of new online trading platform (Stocks, Options, Mutual Funds, etc).
 - Provide technical leadership and architecture vision to the software development team.
@@ -135,19 +107,45 @@ Technologies: Java 8, Scala, Linux, DB2, WebSphere MQ, Spring, Hibernate, Spring
 
 Technologies: Java, J2EE, Tomcat, Weblogic, Mule ESB, Spring, JSON, Linux (Red Hat), MySQL, Websphere MQ, ActiveMQ.
 
-## 5 Employers - Software Developer & Architect
+#### Additional Client Engagements (*2008 - 2018*)
 
-*2001 - 2008*
+- **Pstox - Senior Software Engineer** (*2017 - 2018*): Development and architecture on ThinkingCapital's online financing platform, successfully acquired by Purpose Financial. System integrations with Salesforce and Equifax.
+- **TERN Financial Group - Senior Software Engineer & Architect** (*2014 - 2022*): Design, develop, host and maintain TERNingpoint quote and policy management system.
+- **Intact - Senior Software Engineer** (*2013 - 2014*): Development on new insurance policy management system with service oriented architecture (Project: PAS).
+- **Industrial Alliance Securities - Senior Software Engineer** (*2013*): Architecture and development on fixed income trading platform with Bloomberg TOMS, CBID, and IBM ISM integrations over FIX protocol.
+- **Gemalto (now Thales) - Senior Software Engineer** (*2011 - 2012* & *2008 - 2009*): Mobile banking and instant messaging solutions. Improved backend performance and stability up to 1000 tx/secs.
+- **Penson Financial Services - Senior Software Developer** (*2010*): Migrate and enhance financial applications from IBM ISM to Broadridge platform.
 
-From entry-level Developer to Senior Software Developer & Architect. Learnt real-world programming skills and technologies before starting consultation career.
+---
 
-- **Tecsys - Solutions Architect** (*2006 - 2008*): Develop, architect and customize Supply Chain Management applications for clients. Started as Software Developer in R&D and got promoted to Solutions Architect in Custom Enhancement division.
-- **Morgan Stanley - Systems Architect** (*2004 - 2006*): Develop distributed financial system for trade allocation of fixed income securities.
-- **Logient - Software Developer**  (*2002 - 2004*): Develop many applications for clients, from CMS to custom E-Commerce solutions.
-- **Institut de recherche d'Hydro-Quebec - Software Developer** (*2002*): Develop real-time software and hardware integration for underwater robot used for the inspection of hydroelectric dams.
-- **Canadian Space Agency - Intern** (*2001*): Develop testbed to measure the performance of spatial RF communication modules.
+# Certifications
 
-Technologies: Java, J2EE, Tomcat, JBoss, Websphere, Servlet, Jsp, Taglibs, Html, JavaScript, XML, DTD, XSLT, XPaths, JAX-WS, SOAP, IBM MQSeries, Linux, AIX, Oracle, Informix, Sybase, PostgreSQL, MatLab, C++, Inertial navigation system, Kalman Filter, QNX Real Time OS (RTOS).
+## deeplearning.ai - Artificial Intelligence - TensorFlow in Practice
+
+[Certificate Issued 2020](https://www.coursera.org/account/accomplishments/specialization/certificate/JTD5XFYKW3LT) - 4 courses, 16 weeks:
+
+- Introduction to TensorFlow for Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning
+- Convolutional Neural Networks (CNN) in TensorFlow
+- Natural Language Processing (NLP) in TensorFlow
+- Sequences, Time Series and Prediction
+
+Technologies: Python, TensorFlow, Keras, Pandas, NumPy, Matplotlib
+
+## deeplearning.ai - Artificial Intelligence - Deep Learning
+
+[Certificate Issued 2019](https://www.coursera.org/account/accomplishments/specialization/certificate/XTJ9RM2UHB2A) - 5 courses, 16 weeks:
+
+- Neural Networks and Deep Learning
+- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+- Structuring Machine Learning Projects
+- Convolutional Neural Networks
+- Sequence Models
+
+Technologies: Python, TensorFlow, Keras, Pandas, NumPy, Matplotlib
+
+## MuleSoft - MuleSoft Certified Developer - Integration and API Associate
+
+Certificate Issued 2017 (2 years validity)
 
 ---
 
@@ -171,40 +169,12 @@ This 5-Star *"Leading People and Teams Specialization"* from Michigan faculty st
 
 *1998 - 2002*
 
-- Mention of excellence from the general director for academic achievement.
-- Scholarship for academic excellence.
-- Achieved [unconditional admission to PhD](https://jondemers.github.io/jonathan-demers/Jonathan-Demers-Polytechnique-PhD-Admission.pdf) directly (skipping Master), I did not pursue this goal.
+Top academic performer with distinction:
 
-*[GPA: 3.8](https://jondemers.github.io/jonathan-demers/Jonathan-Demers-Polytechnique-Bulletin.pdf) (max of 4.0 at Polytechnique)*
-
----
-
-# Certifications
-
-## deeplearning.ai - Artificial Intelligence - TensorFlow in Practice
-
-[Certificate Issued 2020](https://www.coursera.org/account/accomplishments/specialization/certificate/JTD5XFYKW3LT) - 4 courses, 16 weeks:
-- Introduction to TensorFlow for Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning
-- Convolutional Neural Networks (CNN) in TensorFlow
-- Natural Language Processing (NLP) in TensorFlow
-- Sequences, Time Series and Prediction
-
-Technologies: Python, TensorFlow, Keras, Pandas, NumPy, Matplotlib
-
-## deeplearning.ai - Artificial Intelligence - Deep Learning
-
-[Certificate Issued 2019](https://www.coursera.org/account/accomplishments/specialization/certificate/XTJ9RM2UHB2A) - 5 courses, 16 weeks:
-- Neural Networks and Deep Learning
-- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-- Structuring Machine Learning Projects
-- Convolutional Neural Networks
-- Sequence Models
-
-Technologies: Python, TensorFlow, Keras, Pandas, NumPy, Matplotlib
-
-## MuleSoft - MuleSoft Certified Developer - Integration and API Associate
-
-Certificate Issued 2017 (2 years validity)
+- Mention of excellence from the general director for academic achievement
+- Scholarship for academic excellence
+- Achieved [unconditional admission to PhD](https://jondemers.github.io/jonathan-demers/Jonathan-Demers-Polytechnique-PhD-Admission.pdf) directly, skipping Master's degree (did not pursue)
+- GPA: 3.8/4.0
 
 ---
 
@@ -221,4 +191,3 @@ Certificate Issued 2017 (2 years validity)
 
 *"Jonathan is a quick learner that adapted very well to our work environment. I recommend Jonathan on every team that have challenging problems to solve or critical system to deliver."*  
 -- Tony Bussieres, Chief Technology Officer, Big Data specialist & Co-founder at TickSmith
-
