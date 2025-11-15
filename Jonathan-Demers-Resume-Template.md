@@ -1,8 +1,11 @@
 # Jonathan Demers
 
-Montreal, QC, H4J 1K5, Canada  
+Montreal, QC, Canada  
 <a href=" mailto:jdemers@opcodesolutions.com">jdemers@opcodesolutions.com</a>  
-[linkedin.com/in/jonathan-demers-ing](https://www.linkedin.com/in/jonathan-demers-ing)  
+[JonathanDemers.ca](https://jonathandemers.ca) |
+[LinkedIn](https://www.linkedin.com/in/jonathan-demers-ing) |
+[Toptal](https://www.toptal.com/resume/jonathan-demers) |
+[AQIII](https://aqiii.org/consultants/profil/25070/)  
 Version: CURRENT_VERSION <small><i>(get latest : 
 [PDF](https://jondemers.github.io/jonathan-demers/RESUME_FILENAME.pdf),
 [HTML](https://jondemers.github.io/jonathan-demers/RESUME_FILENAME.html),
