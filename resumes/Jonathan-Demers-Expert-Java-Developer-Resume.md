@@ -3,10 +3,11 @@
 Montreal, QC, H4J 1K5, Canada  
 <a href=" mailto:jdemers@opcodesolutions.com">jdemers@opcodesolutions.com</a>  
 [linkedin.com/in/jonathan-demers-ing](https://www.linkedin.com/in/jonathan-demers-ing)  
-Latest version: 
-[MD](https://github.com/JonDemers/jonathan-demers/blob/master/resumes/Jonathan-Demers-Expert-Java-Developer-Resume.md),
+Version: 2025.11.15 <small><i>(get latest : 
+[PDF](https://jondemers.github.io/jonathan-demers/resumes/Jonathan-Demers-Expert-Java-Developer-Resume.pdf),
 [HTML](https://jondemers.github.io/jonathan-demers/resumes/Jonathan-Demers-Expert-Java-Developer-Resume.html),
-[PDF](https://jondemers.github.io/jonathan-demers/resumes/Jonathan-Demers-Expert-Java-Developer-Resume.pdf)
+[MD](https://raw.githubusercontent.com/JonDemers/jonathan-demers/refs/heads/master/resumes/Jonathan-Demers-Expert-Java-Developer-Resume.md),
+[TXT](https://jondemers.github.io/jonathan-demers/resumes/Jonathan-Demers-Expert-Java-Developer-Resume.txt))</i></small>
 
 ---
 
@@ -47,7 +48,7 @@ Accelerate software development cycles for multiple clients. Consulting services
 
 ### Key Client Engagements:
 
-#### <a id="ia"></a>iA Private Wealth - Technology Leader (*2022 - Present*)
+#### iA Private Wealth - Technology Leader (*2022 - Present*)
 
 - Oversee full development lifecycle of 40+ financial applications (internal and vendor-supplied), ensuring reliability and business continuity.
 - Review 100+ production deployments annually, proactively identify and mitigate risks to maintain operational excellence.
@@ -66,7 +67,7 @@ Systems include:
 
 Diversified technology ecosystem: GitHub Copilot, Kubernetes, Linux, Windows, IIS, Java, .Net, PHP, Azure Cloud, on-premises infrastructure, Azure DevOps, Jenkins, MSSQL, MySQL and more.
 
-#### <a id="nbc"></a>National Bank of Canada - Full Stack Dev Lead (*2020 - 2022*)
+#### National Bank of Canada - Full Stack Dev Lead (*2020 - 2022*)
 
 - Lead agile squad of frontend, backend, SQL and test-automation developers.
 - Advise the program management on organizational matters.
@@ -79,7 +80,7 @@ Projects: SOMA. Multiple system integrations, including very legacy systems. Int
 
 Technologies: Java 11, Spring Boot, React, TypeScript, Selenium, Microservices, REST, GraphQL, OpenAPI, OAuth 2.0, PKCE, Okta, Sybase, MariaDB, IBM MQ, Camunda, Maven, npm, Linux, Bash scripting, OpenShift, Kubernetes, helm, vault, Harness, Docker, CI/CD, Jenkins, Nexus, Veracode, IQ Server, Git, Splunk, Datadog, Atlassian suite (Bitbucket, Jira, Confluence, etc.), Agile methodology, SAFe.
 
-#### <a id="td-bank"></a>TD Bank - Development Lead (*2018 - 2020*)
+#### TD Bank - Development Lead (*2018 - 2020*)
 
 - Lead teams of developers and devops on numerous successful enterprise projects.
 - Advise the department senior director on organizational matters.
@@ -92,14 +93,14 @@ Projects: GPS 2.1, GPS 2.2 and much more. Multiple system integrations. Buy onli
 
 Technologies: Java, Spring, Maven, JBoss, OAuth 2.0, REST, Soap, Angular, TypeScript, NodeJS, PM2, npm, VSCode, Oracle, Linux (RHEL), Git, Atlassian suite (Bitbucket, Jira, confluence, etc.), CDN, Private Cloud, CI/CD, Jenkins, Ansible, Docker, Veracode, IQ Server, Agile methodology.
 
-#### <a id="morgan-stanley"></a>Morgan Stanley - Senior Software Engineer (*2015 - 2017*)
+#### Morgan Stanley - Senior Software Engineer (*2015 - 2017*)
 
 - Lead, coach and motivate 2 developers. Advise developer performance to software development VP.
 - Architecture and development on real-time pricing of fixed income securities and search platform used by financial advisors.
 
 Technologies: Java 8, Scala, Linux, DB2, WebSphere MQ, Spring, Hibernate, Spring, Play, SBT, Git, Autosys, Kerberos, Linux, etc.
 
-#### <a id="desjardins"></a>Desjardins - Tech Lead & Senior Software Developer (*2012 - 2013* & *2010 - 2011*)
+#### Desjardins - Tech Lead & Senior Software Developer (*2012 - 2013* & *2010 - 2011*)
 
 - Lead backend development of new online trading platform (Stocks, Options, Mutual Funds, etc).
 - Provide technical leadership and architecture vision to the software development team.

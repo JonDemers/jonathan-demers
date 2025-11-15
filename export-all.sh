@@ -38,6 +38,7 @@ for position_title_normalcase in \
   cp Jonathan-Demers-Resume-Template.md $resume_filename.md
 
   position_title_uppercase="$(echo $position_title_normalcase | tr a-z A-Z)"
+  sed -i -r "s|CURRENT_VERSION|$(date --iso|sed -r 's/-/./g')|g" $resume_filename.md
   sed -i -r "s|RESUME_FILENAME|$resume_filename|g" $resume_filename.md
   sed -i -r "s|POSITION_TITLE_UPPERCASE|$position_title_uppercase|g" $resume_filename.md
   sed -i -r "s|POSITION_TITLE_NORMALCASE|$position_title_normalcase|g" $resume_filename.md
@@ -52,8 +53,9 @@ for position_title_normalcase in \
   unix2dos $resume_filename.html
 
   wkhtmltopdf --enable-local-file-access --page-size letter $resume_filename.html $resume_filename.pdf
+  pandoc -f markdown -t plain $resume_filename.md -o $resume_filename.txt
 
-  for ext in md html pdf; do
+  for ext in md html pdf txt; do
     cp $resume_filename.$ext Jonathan-Demers-Resume.$ext
   done
 
